@@ -1,0 +1,15 @@
+import java.utili.Scanner;
+
+class main{
+      public static void main(String[] args) {
+            Scanner input= new Scanner(System.in);
+            System.out.println("enter the name: ");
+
+            String username= input.nextLine();
+            System.out.println("the username is " +username)
+            
+             }
+}
+
+
+
